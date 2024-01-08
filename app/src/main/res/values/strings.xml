@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MOBILE</string>
+    <string name="so_thu_nhat">so thu nhat</string>
+    <string name="nhap_so_thu_2">nhap so thu 2</string>
+    <string name="nhap_so_thu_hai">nhap so thu hai</string>
+    <string name="nhap_he_so_a">nhap he so a:</string>
+    <string name="nhap_he_so_b">nhap he so b:</string>
+    <string name="nhap_he_so_c">nhap he so c:</string>
+    <string name="enter">Enter</string>
+    <string name="ket_qua">ket qua</string>
+    <string name="result">result</string>
+    <string name="soa">soa</string>
+    <string name="sob">sob</string>
+    <string name="soc">soc</string>
+    <string name="nhap_so_thu_nhat">nhap so thu nhat</string>
+    <string name="nhap_so_thu_haii">nhap so thu haii</string>
+    <string name="tinh_tong">tinh tong</string>
+    <string name="ten">Ten</string>
+    <string name="Ten">Ten</string>
+    <string name="Tuoi">Tuoi</string>
+</resources>
